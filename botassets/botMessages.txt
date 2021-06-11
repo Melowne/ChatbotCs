@@ -1,0 +1,15 @@
+DICT   
+hallo|aber hallo
+geht was|verstehst du darunter?
+schmeckt|ich habe keinen Geschmackssinn
+morgen|morgen ist auch noch ein Tag
+cool|Cool ist ein im Deutschen ursprünglich jugendsprachlicher Anglizismus
+nabend|gute nacht
+RANDOMANSWERSLIST
+oh wirklich..
+interessant
+das kann man so sehen
+Ich verstehe
+Sehe ich genau so
+Das find ich klasse
+das ist aber langweilig
